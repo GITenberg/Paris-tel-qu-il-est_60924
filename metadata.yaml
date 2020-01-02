@@ -1,5 +1,8 @@
 _repo: Paris-tel-qu-il-est_60924
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60924-h/images/cover.jpg
 creator:
   author:
     agent_name: Noriac, Jules
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jules_Noriac
     - https://en.wikipedia.org/wiki/Jules_Noriac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60924#Paris-tel-qu-il-est
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Chroniques
